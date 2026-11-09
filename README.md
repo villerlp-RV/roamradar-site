@@ -1,7 +1,7 @@
 # RoamRadar website
 
 The public pages Google Play links to, served by GitHub Pages at
-https://silverkey.app:
+https://roamradar.app:
 
 | URL | Use |
 |---|---|
@@ -23,5 +23,5 @@ Last copied from roamradar@f683d70.
 ## Hosting
 
 - **Settings → Pages**: Source "Deploy from a branch", branch `main`, folder `/ (root)`.
-- **Custom domain**: `silverkey.app` (the `CNAME` file), with Enforce HTTPS on.
+- **Custom domain**: `roamradar.app` (the `CNAME` file), with Enforce HTTPS on.
 - `.nojekyll` serves the files as they are.
